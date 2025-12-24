@@ -102,8 +102,3 @@ This tool is for **educational and personal use only**.
 * Developed by **Methane_Intoxication**.
 * Original concept by Abhin Krishna.
 * Algorithm adapted from [GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) and [journey-ad](https://github.com/journey-ad/gemini-watermark-remover).
-
-## 🤝 Credits
-
-* Developed by **Abhin Krishna**.
-* Algorithm adapted from [GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) and [journey-ad](https://github.com/journey-ad/gemini-watermark-remover).
